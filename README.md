@@ -14,6 +14,8 @@
 
 🔬 Currently researching **Deep Learning for IoT** — comparing LSTM & GRU models for real-time water quality prediction in aquaculture systems
 
+⚙️ Interested in **Data Engineering, Data Analytics, Machine Learning, and Backend Development**, building scalable data pipelines and AI-powered applications.
+
 🛠️ I love building things that bridge **hardware and software** — from sensor data pipelines to full-stack web apps
 
 📍 Indonesia
