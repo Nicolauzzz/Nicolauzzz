@@ -16,7 +16,7 @@
 
 🛠️ I love building things that bridge **hardware and software** — from sensor data pipelines to full-stack web apps
 
-📍 Jawa Tengah, Indonesia
+📍 Indonesia
 
 ---
 
