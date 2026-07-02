@@ -103,7 +103,8 @@
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-nicolauswidyatna-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:nicolauswidyatna@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolaus_Widyatna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolauswidyatna)
+[![Email](https://img.shields.io/badge/Email-nicolauswidyatna-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:nicolauswidyatna@students.undip.ac.id)
 [![YouTube](https://img.shields.io/badge/YouTube-nicolaus8277-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nicolaus8277)
 [![GitHub](https://img.shields.io/badge/GitHub-Nicolauzzz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicolauzzz)
 
